@@ -22,15 +22,10 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://raw.githubusercontent.com/codeceptjs/website/master/public/img/logo.svg" width="40" title="CodeceptJS"/>
-  <img src="https://raw.githubusercontent.com/badeball/gherkin-vscode/main/images/icon.png" width="40" title="Gherkin"/>
-  <img src="https://seeklogo.com/images/A/appium-logo-362ED1E4A8-seeklogo.com.png" width="40" title="Appium"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_logo.svg" width="40" title="Jira"/>
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo.png" width="40" title="Cypress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" title="Jira"/>
 </p>
 
