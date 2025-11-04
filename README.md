@@ -36,8 +36,8 @@ Atualmente, estou em transição de carreira para as áreas de **Cibersegurança
 
 ### 💼 Projetos em Destaque
 
-- 📱 [Automação de Testes Web com CodeceptJS e WebDriver](https://github.com/disoares2310/automacao-de-testes-codeceptjs-e-webdriver )
-- 🧪 [Automação de Testes Web com Playwright e CodeceptJS](https://github.com/disoares2310/automacao_de_teste_playwright_codeceptjs_js)
+- 📱 [Automação de Testes Web com CodeceptJS e WebDriver](https://github.com/disoares23/automacao-de-testes-codeceptjs-e-webdriver)
+- 🧪 [Automação de Testes Web com Playwright e CodeceptJS](https://github.com/disoares23/automacao_de_teste_playwright_codeceptjs_js)
 
 ---
 
